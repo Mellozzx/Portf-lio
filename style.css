@@ -1,0 +1,62 @@
+.body{
+    background-color: rgb(0, 24, 182);
+}
+
+.menu{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+
+.nav{
+    color: white;
+
+}
+
+#imagem{
+    background-color: black;
+    display: inline-block
+}
+
+#p1{
+    background-color: black;
+    display: inline-block;
+    color: white;
+}
+
+#n1{
+    margin-right: 300px;
+    display: inline-block;
+}
+
+#sobre{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+#habilidades{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+#meusprojetos{
+    display: inline-block;
+margin-right: 50px;}
+
+#contatos{
+    display: inline-block;
+}
+
+#img{
+    display: inline-block;
+    margin-right: 200px;
+}
+
+#p1{
+    display: inline-block;
+    text-align: center;
+    border-radius: 20px;
+    padding: 25px;
+    width: 350px;
+}
